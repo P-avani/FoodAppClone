@@ -32,9 +32,13 @@ Built with a modular architecture, it combines a dynamic user interface with a r
 ✅ **Prerequisites**
 
 -Java Development Kit (JDK 8 or above)
+
 -Apache Tomcat Server (Version 9 or above)
+
 -MySQL Database
+
 -IDE (Eclipse)
+
 📝 **Steps to Setup the Project Locally**
 
 **1.Clone the Repository**
@@ -42,7 +46,6 @@ Built with a modular architecture, it combines a dynamic user interface with a r
   git clone https://github.com/YourUsername/BiteSphere.git
 
 **2.Import Project into IDE**
- 
   -Open your preferred IDE.
   -Import the project as a Dynamic Web Project (for Eclipse) or Maven/Gradle project based on your setup.
 
