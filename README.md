@@ -47,18 +47,23 @@ Built with a modular architecture, it combines a dynamic user interface with a r
 
 **2.Import Project into IDE**
   -Open your preferred IDE.
+  
   -Import the project as a Dynamic Web Project (for Eclipse) or Maven/Gradle project based on your setup.
 
 **3.Database Setup**
   
   -Open MySQL Workbench or command line.
+  
   -Create a new database.
+  
   -Import the provided SQL script in the project to create necessary tables and insert sample data.
 
 **4.Configure Database Connection**
  
   -Navigate to the dbConnection/DBConnection.java file.
+ 
   -Update your database URL, username, and password:
+  
    String url = "jdbc:mysql://localhost:3306/foodapp";
    String user = "your_username";
    String password = "your_password";
@@ -66,11 +71,13 @@ Built with a modular architecture, it combines a dynamic user interface with a r
 **5. Deploy on Server**
  
   -Configure Tomcat Server in your IDE.
+ 
   -Deploy the project to Tomcat or generate .war file and place it in Tomcat's webapps directory.
 
 **6.Run the Project**
  
   -Start the Tomcat server.
+ 
   -Visit http://localhost:8080/BiteSphere/ in your browser.
 
 
