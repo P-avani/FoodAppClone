@@ -1,9 +1,9 @@
-##🍽️ **Bite Sphere - Food Ordering Web Application**
+🍽️ **Bite Sphere - Food Ordering Web Application**
 
-##🚀 **Bite Sphere** is a feature-rich food ordering application designed to make browsing, ordering, and enjoying delicious meals simple and interactive.
+🚀 **Bite Sphere** is a feature-rich food ordering application designed to make browsing, ordering, and enjoying delicious meals simple and interactive.
 Built with a modular architecture, it combines a dynamic user interface with a robust backend for a seamless user experience.
 
-##🌟 Key Features
+🌟 Key Features
 
 - 🍽️ **Diverse Menu Browsing**: Explore a wide variety of cuisines and dishes through a clean and user-friendly interface.
 - 🛒 **Seamless Order Placement**: Place orders quickly and effortlessly with a few clicks.
@@ -26,31 +26,39 @@ Built with a modular architecture, it combines a dynamic user interface with a r
 
  **Database:**
 - MySQL
+
 📥 **Installation / Setup Instructions**
+
 ✅ **Prerequisites**
 -Java Development Kit (JDK 8 or above)
 -Apache Tomcat Server (Version 9 or above)
 -MySQL Database
 -IDE (Eclipse)
 📝 **Steps to Setup the Project Locally**
+
 **1.Clone the Repository**
   git clone https://github.com/YourUsername/BiteSphere.git
+
 **2.Import Project into IDE**
   -Open your preferred IDE.
   -Import the project as a Dynamic Web Project (for Eclipse) or Maven/Gradle project based on your setup.
+
 **3.Database Setup**
   -Open MySQL Workbench or command line.
   -Create a new database.
   -Import the provided SQL script in the project to create necessary tables and insert sample data.
+
 **4.Configure Database Connection**
   -Navigate to the dbConnection/DBConnection.java file.
   -Update your database URL, username, and password:
    String url = "jdbc:mysql://localhost:3306/foodapp";
    String user = "your_username";
    String password = "your_password";
+
 **5. Deploy on Server**
   -Configure Tomcat Server in your IDE.
   -Deploy the project to Tomcat or generate .war file and place it in Tomcat's webapps directory.
+
 **6.Run the Project**
   -Start the Tomcat server.
   -Visit http://localhost:8080/BiteSphere/ in your browser.
