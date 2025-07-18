@@ -1,9 +1,9 @@
-🍽️ **Bite Sphere - Food Ordering Web Application**
+##🍽️ **Bite Sphere - Food Ordering Web Application**
 
-🚀 **Bite Sphere** is a feature-rich food ordering application designed to make browsing, ordering, and enjoying delicious meals simple and interactive.
+##🚀 **Bite Sphere** is a feature-rich food ordering application designed to make browsing, ordering, and enjoying delicious meals simple and interactive.
 Built with a modular architecture, it combines a dynamic user interface with a robust backend for a seamless user experience.
 
-🌟 Key Features
+##🌟 Key Features
 
 - 🍽️ **Diverse Menu Browsing**: Explore a wide variety of cuisines and dishes through a clean and user-friendly interface.
 - 🛒 **Seamless Order Placement**: Place orders quickly and effortlessly with a few clicks.
