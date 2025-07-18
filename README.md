@@ -10,3 +10,19 @@ Built with a modular architecture, it combines a dynamic user interface with a r
 - 🎨 **Interactive Frontend**: Developed using **HTML**, **CSS**, and **JavaScript** for responsive and appealing design.
 - 🛠️ **Robust Backend**: Built using **Java (JSE, JEE)** and **JDBC** to handle complex backend operations smoothly.
 - 🗄️ **Database Integration**: Efficiently manages user data, orders, and products through **MySQL**.
+
+
+⚙️ **Technologies Used**
+
+ 🖥️ **Frontend:**
+- HTML
+- CSS
+- JavaScript
+
+🖥️ **Backend:**
+- Java SE (JDK)
+- Java EE (Servlets, JSP)
+- JDBC for Database Connectivity
+
+🗄️ **Database:**
+- MySQL
