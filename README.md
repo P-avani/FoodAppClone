@@ -46,6 +46,7 @@ Built with a modular architecture, it combines a dynamic user interface with a r
   git clone https://github.com/YourUsername/BiteSphere.git
 
 **2.Import Project into IDE**
+  
   -Open your preferred IDE.
   
   -Import the project as a Dynamic Web Project (for Eclipse) or Maven/Gradle project based on your setup.
@@ -65,7 +66,9 @@ Built with a modular architecture, it combines a dynamic user interface with a r
   -Update your database URL, username, and password:
   
    String url = "jdbc:mysql://localhost:3306/foodapp";
+   
    String user = "your_username";
+   
    String password = "your_password";
 
 **5. Deploy on Server**
