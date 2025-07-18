@@ -26,3 +26,14 @@ Built with a modular architecture, it combines a dynamic user interface with a r
 
  **Database:**
 - MySQL
+
+**Project Structure**
+BiteSphere/
+│
+├── 📂 model/ # Data models (e.g., User, Product, Order)
+├── 📂 dao/ # Data Access Object (DAO) interfaces
+├── 📂 daoImpl/ # DAO implementation classes for database operations
+├── 📂 servlet/ # Servlet classes (handles requests and responses)
+├── 📂 dbConnection/ # Database connection class (DBConnection.java)
+├── 📂 jsp/ # JSP files for dynamic front-end views
+└── 📄 SQL Scripts # Database setup files
