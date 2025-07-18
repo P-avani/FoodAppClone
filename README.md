@@ -14,15 +14,15 @@ Built with a modular architecture, it combines a dynamic user interface with a r
 
 ⚙️ **Technologies Used**
 
- 🖥️ **Frontend:**
+  **Frontend:**
 - HTML
 - CSS
 - JavaScript
 
-🖥️ **Backend:**
+ **Backend:**
 - Java SE (JDK)
 - Java EE (Servlets, JSP)
 - JDBC for Database Connectivity
 
-🗄️ **Database:**
+ **Database:**
 - MySQL
